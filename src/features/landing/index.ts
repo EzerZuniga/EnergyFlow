@@ -1,0 +1,9 @@
+export { AboutSection } from './sections/AboutSection';
+export { DemoAccessSection } from './sections/DemoAccessSection';
+export { DocumentsSection } from './sections/DocumentsSection';
+export { HeroSection } from './sections/HeroSection';
+export { JustificationSection } from './sections/JustificationSection';
+export { MethodologySection } from './sections/MethodologySection';
+export { ObjectivesSection } from './sections/ObjectivesSection';
+export { ProblemSection } from './sections/ProblemSection';
+export { TeamSection } from './sections/TeamSection';
